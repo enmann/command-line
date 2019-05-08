@@ -46,7 +46,7 @@ In this session, we will:
 -----
 
 Session Leader: Rebecca Parker    
-Based on previous work by Patrick Smyth, Mary Catherine McKinniburgh, and Jojo Karlin  
+Based on previous work by Patrick Smyth, Mary Catherine McKinniburgh, Jojo Karlin, and Kelsey Chatlosh
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
