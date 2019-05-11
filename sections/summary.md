@@ -28,7 +28,7 @@ In [CUNY's DHRI Zotero Library](https://www.zotero.org/groups/2164386/digital_hu
 
 [MALLET (MAchine Learning for LanguagE Toolkit)](http://mallet.cs.umass.edu/index.php)
 
-The CUNY DHRI Zotero Library includes articles about how and why you might want to use MALLET. If you complete [our machine learning workshop](https://github.com/dhsouthbend/machine-learning) and get a sense of how it works, you may want to explore this tool developed by and for digital humanities scholars.  
+The CUNY DHRI Zotero Library includes articles about how and why you might want to use MALLET. 
 
 [Pandoc](https://pandoc.org/)
 
