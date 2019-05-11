@@ -2,7 +2,7 @@
 
 ### What we've learned
 
-You've made it through your introduction to the command line! By now, you have experienced some of the power of communicating with your computer using text commands. The basic steps you learned today will help as you move forward through the week--you'll work with the command line interface to set up your [version control with git](https://github.com/DHRI-Curriculum/git) and you'll have your text editor open for the rest of the week as you write python scripts and build basic websites with [HTML and CSS](https://github.com/DHRI-Curriculum/html-css).
+You've made it through your introduction to the command line! By now, you have experienced some of the power of communicating with your computer using text commands. The basic steps you learned today will help as you move forward through the week--you'll work with the command line interface to set up your [version control with git](https://github.com/dhsouthbend/git) and you'll have your text editor open for the rest of the week as you write python scripts and build basic websites with [HTML and CSS](https://github.com/dhsouthbend/html-css).
 
 Now is a good time to do a quick review!
 
@@ -22,13 +22,13 @@ Having a grasp of command line basics will not only make you more familiar with 
 
 ### Moving forward
 
-What you have learned will be useful as you move forward through these tutorials. The command line will be immediately necessary for setting up your computer for version control with git in [the next lesson](https://github.com/DHRI-Curriculum/git)! You'll find that knowing a few commands can help immeasurably as you find new tools to use.
+What you have learned will be useful as you move forward through these tutorials. The command line will be immediately necessary for setting up your computer for version control with git in [the next lesson](https://github.com/dhsouthbend/git)! You'll find that knowing a few commands can help immeasurably as you find new tools to use.
 
 In the [DHRI Zotero Library](https://www.zotero.org/groups/2164386/digital_humanities_research_institute), you'll see articles discussing command line tools that people in the humanities often use like:
 
 [MALLET (MAchine Learning for LanguagE Toolkit)](http://mallet.cs.umass.edu/index.php)
 
-The DHRI Zotero Library includes articles about how and why you might want to use MALLET. If you complete [our machine learning workshop](https://github.com/DHRI-Curriculum/machine-learning) and get a sense of how it works, you may want to explore this tool developed by and for digital humanities scholars.  
+The DHRI Zotero Library includes articles about how and why you might want to use MALLET. If you complete [our machine learning workshop](https://github.com/dhsouthbend/machine-learning) and get a sense of how it works, you may want to explore this tool developed by and for digital humanities scholars.  
 
 [Pandoc](https://pandoc.org/)
 
@@ -46,11 +46,11 @@ That's the end of the command line session, but if you want to continue to learn
 
 or 
 
-review [our glossary for the command line](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/command-line.md).   
+review [our glossary for the command line](https://github.com/dhsouthbend/glossary/blob/master/sections/command-line.md).   
 
 Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to review and learn more.
 
 [<<< Previous](grep.md)  
-[<<< Return to introduction](https://github.com/DHRI-Curriculum/command-line/)
+[<<< Return to introduction](../README.md)
 
 
