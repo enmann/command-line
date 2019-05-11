@@ -46,7 +46,7 @@ That's the end of the command line session, but if you want to continue to learn
 
 or 
 
-review [our glossary for the command line](https://github.com/dhsouthbend/glossary/blob/master/sections/command-line.md).   
+review [our glossary for the command line](glossary.md).   
 
 Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to review and learn more.
 
