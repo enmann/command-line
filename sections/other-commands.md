@@ -4,7 +4,7 @@
 
 `<up>` - The `<up>` key will fill in the last command you ran. Hit it multiple times to cycle through the last commands you've entered.
 
-`man <command name>` - The `man` or manual command will provide information on any UNIX command. Try `man ls`, `man grep`, or `man man`.
+`man <command name>` - The `man` or manual command will provide information on any UNIX command. Try `man ls`, `man grep`, or `man man`. **Note to Windows users:** unfortunately, `man` does not work with Git Bash. You can attempt getting a smaller bit of help text by adding the `--help` flag to a command, such as `ls --help`. (To stop everything from scrolling past, append `| less` to the command, as follows `ls --help | less` -- just remember that when the help has come to an end, you must press `q` to get back to the command prompt.) If you need the fuller man pages, they can be searched online.
 
 `exit` - Exit the terminal session. You can also use `<Control-d>`
 
